@@ -7,7 +7,11 @@ I am 14 y.o from Donbass😤
 
 Skills: JS / PHP / C# / C++
 
-- 🔭 I’m currently working on this page. 
+- 😡JA ne noob esli cho😡
+
+<br />
+<br />
+<br />
 
 ### I'm FullStack WEB-DEV (Front-End and Back-End)
 ---
