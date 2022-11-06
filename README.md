@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am Andrej
+#### I am kakoi to chel kotorij delaet choto na js, php, c#, c++
+![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
 
-<!--
-**andrejparkur2007/andrejparkur2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 14 y.o from Donbass😤
+
+
+Skills: JS / PHP / C# / C++
+
+- 🔭 I’m currently working on this page. 
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
