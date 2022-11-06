@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning REACT JS + C++
 - 👯 I’m looking to collaborate on neznaju
 - 🤔 I’m looking for help with tozhe neznaju
-- 💬 Ask me about JS or PHP
+- 💬 Ask me about chto ugodno
 - 📫 How to reach me: t.me/txtxtadh
 - ⚡ Fun fact: I am from Donbass
