@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=Dead-Inside-UWU-cpp))]
+[![Readme Card][https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats]
 
 <br />
 <br />
