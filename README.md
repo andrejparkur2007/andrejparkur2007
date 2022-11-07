@@ -17,8 +17,7 @@
 <img align="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
-<br />
-<br />
+
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejparkur2007&layout=compact)]
