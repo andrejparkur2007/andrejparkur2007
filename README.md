@@ -1,6 +1,8 @@
 ### Privet 👋, I am Andrej
 #### Delaet cho to na js, c#, c++, php
-![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
+![I am kakoi to chel kotorij delaet choto na js, php, c#, c++]
+
+<img width="100px" src="https://i.ibb.co/GcqgkNZ/kodir.jpg"/>
 
 <br />
 
