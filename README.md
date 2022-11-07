@@ -2,13 +2,6 @@
 #### I am kakoi to chel kotorij delaet choto na js, php, c#, c++
 ![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
 
-I am 14 y.o from Donbass😤
-
-
-Skills: JS / PHP / C# / C++
-
-- 😡JA ne noob esli cho😡
-
 <br />
 <br />
 <br />
