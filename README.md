@@ -1,5 +1,5 @@
 ### Privet 👋, I am Andrej
-#### I am kakoi to chel kotorij delaet choto na js, php, c#, c++
+#### Delaet cho to na js, c#, c++, php
 ![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
 
 <br />
