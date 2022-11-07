@@ -26,6 +26,12 @@
 <br />
 <br />
 
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=Dead-Inside-UWU-cpp))]
+
+<br />
+<br />
+<br />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on UNDETECED CSGO HACK
