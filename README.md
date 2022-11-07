@@ -1,4 +1,4 @@
-### Hi there 👋, I am Andrej
+### Privet 👋, I am Andrej
 #### I am kakoi to chel kotorij delaet choto na js, php, c#, c++
 ![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
 
