@@ -28,7 +28,7 @@ Skills: JS / PHP / C# / C++
 <br />
 <br />
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejparkur2007&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejparkur2007&layout=compact)]
 
 <br />
 <br />
