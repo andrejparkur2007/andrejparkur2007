@@ -3,8 +3,6 @@
 ![I am kakoi to chel kotorij delaet choto na js, php, c#, c++](https://i.ibb.co/GcqgkNZ/kodir.jpg)
 
 <br />
-<br />
-<br />
 
 ### I'm FullStack WEB-DEV (Front-End and Back-End)
 ---
@@ -18,6 +16,8 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 
+<br />
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejparkur2007&layout=compact)]
