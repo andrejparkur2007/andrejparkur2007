@@ -1,5 +1,5 @@
 ### Privet 👋, I am Andrej
-#### Delaet cho to na js, c#, c++, php
+#### ne kripish
 
 <img width="100px" src="https://i.ibb.co/GcqgkNZ/kodir.jpg"/>
 
@@ -37,7 +37,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on UNDETECED CSGO HACK
+- 🔭 I’m currently working on UNDETECED CSGO HACK (relisium)
 - 🌱 I’m currently learning REACT JS + C++
 - 👯 I’m looking to collaborate on neznaju
 - 🤔 I’m looking for help with tozhe neznaju
