@@ -21,7 +21,9 @@
 <br />
 <br />
 
+<br />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=Relisium-csgo-internal-cheat)]
 
 <br />
 
