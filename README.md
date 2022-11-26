@@ -1,7 +1,6 @@
 ### Privet 👋, I am Andrej
 #### ne kripish
 
-<img width="100px" src="https://i.ibb.co/GcqgkNZ/kodir.jpg"/>
 
 <br />
 
