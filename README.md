@@ -27,11 +27,11 @@
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=Dead-Inside-UWU-cpp)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=Dead-Inside-UWU-cpp)
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=PHP-MySQL-Chat)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejparkur2007&repo=PHP-MySQL-Chat)
 
 <br />
 <br />
