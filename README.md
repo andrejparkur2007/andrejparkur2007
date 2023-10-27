@@ -1,10 +1,10 @@
-### Privet 👋, I am 
-#### ne kripish
+### Privet 👋, I am Arnolds Timofeichik
+#### ne bot
 
 
 <br />
 
-### I'm Coder, Fortnite pro player, Forex trader
+### I'm ...
 ---
 ### Skills 😎:
 
