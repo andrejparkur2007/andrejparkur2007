@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with tozhe neznaju
 - 💬 Ask me about chto ugodno
 - 📫 How to reach me: t.me/arnolds_comm
-- ⚡ Fun fact: I am from Donbass
+- ⚡ Fun fact: I am from New York
